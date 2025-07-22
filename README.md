@@ -1,6 +1,6 @@
 # Hi, I'm AwesomeMc101 👋
 
-I'm a 17 year old C++/Windows reverse engineer and AI developer from the US.
+I'm an 18 year old C++/Windows reverse engineer and AI developer from the US.
 My favorite topics to work on include finance, neural networks, reverse engineering, and win32.
 Owner of Tensora Softworks @ tensora.xyz.
 
